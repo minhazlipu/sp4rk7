@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,BTV WORLD
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
 #EXTINF:0,CHANNEL S
 https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
 
@@ -199,6 +202,9 @@ https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:0,CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:0,ZEE CAFE HD
+http://tvserver.roarzone.info:8082/76/index.m3u8
 
 #EXTINF:0,SONY PIX
 http://tv.ebox.live/live/sony-pix.m3u8
