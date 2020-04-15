@@ -12,22 +12,22 @@ https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
 http://tvserver.roarzone.info:8082/109/index.m3u8
 
 #EXTINF:0,ATN BANGLA
-http://tv.ebox.live/live/atnbd1.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
 #EXTINF:0,ATN NEWS
-http://tv.ebox.live/live/ex-atnae.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
 #EXTINF:0,JAMUNA TV
-http://tv.ebox.live/live/ex-jamuna.m3u8
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
 #EXTINF:0,NTV
-http://tvserver.roarzone.info:8082/31/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
 #EXTINF:0,GAZI TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
-#EXTINF:0,GAZI TV HD
-http://103.58.73.26/streams/108/index.m3u8
+#EXTINF:-0,Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
 #EXTINF:0,SOMOY TV
 https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
@@ -36,13 +36,13 @@ https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
 #EXTINF:0,DESH TV
-https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
 #EXTINF:0,SA TV
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 
 #EXTINF:0,CHANNEL I
-http://tv.ebox.live/live/chi.m3u8
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
 #EXTINF:0,EKATTOR TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
@@ -50,10 +50,7 @@ https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:0,CHANNEL 9 HD
 http://103.58.73.26/streams/102/index.m3u8
 
-#EXTINF:0,BOISHAKHI
-http://tv.ebox.live/live/boishakhi.m3u8
-
-#EXTINF:0,BOISHAKHI TV HD
+#EXTINF:0,BOISHAKHI TV
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
 #EXTINF:0,CHANNEL 24
@@ -66,7 +63,7 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
 #EXTINF:0,DBC
-http://tv.ebox.live/live/dbc.m3u8
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTINF:0,NEWS 24 HD
 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
@@ -86,9 +83,6 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:0,PROBASHI BANGLA
 https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
 
-#EXTINF:0,MY TV
-https://edge4.bioscopelive.com/hls/x5sBdcsuS8J/gS0WEEHRndgkCtOFdTeGVg/1586183644/my_tv_low/index.m3u8
-
 #EXTINF:0,RTV
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 
@@ -97,9 +91,6 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 
 #EXTINF:0,COLORS BANGLA HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-
-#EXTINF:0,STAR JALSHA
-http://tv.ebox.live/live/star-jalsha.m3u8
 
 #EXTINF:0,STAR JALSHA HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
@@ -162,7 +153,7 @@ https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0,STAR GOLD
-http://tv.ebox.live/live/star-gold.m3u8
+http://tv.ebox.live:8080/live/star-gold.m3u8
 
 #EXTINF:0,STAR GOLD SELECT
 http://tv.ebox.live/live/star-gold-select.m3u8
@@ -177,7 +168,7 @@ https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
 #EXTINF:0,SONY MAX HD
-http://tv.ebox.live/live/sony-max.m3u8
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
 #EXTINF:0,SONY MAX 2
 http://tv.ebox.live/live/sony-max-2.m3u8
@@ -187,6 +178,9 @@ https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 
 #EXTINF:0,9XM
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
+
+#EXTINF:0,B4U MUSIC
+https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 
 #EXTINF:0,SONY MIX
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
