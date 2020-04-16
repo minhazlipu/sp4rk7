@@ -101,32 +101,17 @@ http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,ZEE BANGLA
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
-#EXTINF:0,ZEE BANGLA HD
-https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
-
 #EXTINF:0,ZEE_BANGLA HD 
 http://tv.ebox.live:8080/live/zee-bangla.m3u8
 
 #EXTINF:0,ZEE BANGLA CINEMA
 http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
-#EXTINF:0,Sony AATH
-https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-
-#EXTINF:0,AKASH AATH
-https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-
-#EXTINF:0,SONY YAY
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-
 #EXTINF:0,STAR PLUS
 http://tv.ebox.live:8080/live/star-plus.m3u8
 
 #EXTINF:0,STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-
-#EXTINF:0,SONY ENTERTAINMENT
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:0,SONY TV HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
@@ -153,7 +138,7 @@ https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:0,STAR GOLD
-http://tv.ebox.live:8080:8080/live/star-gold.m3u8
+http://tv.ebox.live:8080/live/star-gold.m3u8
 
 #EXTINF:0,STAR GOLD SELECT
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
@@ -161,14 +146,8 @@ http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:0,STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
-#EXTINF:0,B-FLIX
-https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
-
-#EXTINF:0,SONY MAX
-https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-
 #EXTINF:0,SONY MAX HD
-https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+http://tv.ebox.live:8080/live/sony-max.m3u8
 
 #EXTINF:0,SONY MAX 2
 http://tv.ebox.live:8080/live/sony-max-2.m3u8
@@ -176,14 +155,8 @@ http://tv.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:0,VH1
 https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
 
-#EXTINF:0,9XM
-https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
-
 #EXTINF:0,B4U MUSIC
 https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
-
-#EXTINF:0,SONY MIX
-https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 
 #EXTINF:0,ZEE BOLLYWOOD
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
