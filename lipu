@@ -122,11 +122,11 @@ http://tv.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:0,ZEE BANGLA CINEMA
 http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
-#EXTINF:0,STAR PLUS
-http://tv.ebox.live:8080/live/star-plus.m3u8
-
 #EXTINF:0,STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:0,SONY TV
+http://103.141.66.36/bpk-tv/10401/default/index.m3u8
 
 #EXTINF:0,SONY TV HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
@@ -135,7 +135,7 @@ http://tv.ebox.live:8080/live/sonyhd.m3u8
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 
 #EXTINF:0,SONY SAB
-http://tv.ebox.live:8080/live/sony-sab.m3u8
+http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 
 #EXTINF:0,SONY AATH
 http://103.141.66.36/bpk-tv/10302/default/index.m3u8
