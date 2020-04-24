@@ -116,11 +116,8 @@ http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:0,ZEE BANGLA
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
-#EXTINF:0,ZEE_BANGLA HD 
-http://tv.ebox.live:8080/live/zee-bangla.m3u8
-
 #EXTINF:0,ZEE BANGLA CINEMA
-http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
+http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 
 #EXTINF:0,STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
@@ -130,6 +127,12 @@ http://103.141.66.36/bpk-tv/10401/default/index.m3u8
 
 #EXTINF:0,SONY TV HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
+
+#EXTINF:0,ARY ZINDAGI
+http://103.141.66.36/bpk-tv/10091/default/index.m3u8
+
+#EXTINF:0,ARY DIGITAL
+http://103.141.66.36/bpk-tv/10090/default/index.m3u8
 
 #EXTINF:0,ARY FAMILY
 http://103.141.66.36/bpk-tv/10186/default/index.m3u8
@@ -171,7 +174,10 @@ http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 
 #EXTINF:0,STAR GOLD
-http://tv.ebox.live:8080/live/star-gold.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
+#EXTINF:0,STAR GOLD HD
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:0,STAR GOLD SELECT
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
@@ -214,6 +220,9 @@ https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:0,CBEEBIES
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:0,ZEE CAFE
+http://103.141.66.36/bpk-tv/10229/default/index.m3u8
 
 #EXTINF:0,ZEE CAFE HD
 http://tvserver.roarzone.info:8082/76/index.m3u8
