@@ -111,10 +111,13 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 
 #EXTINF:0,STAR JALSHA MOVIES
-http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+http://175.41.46.16:8081/hls/4.m3u8
 
 #EXTINF:0,ZEE BANGLA
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:0,ZEE BANGLA HD
+http://khulnalive.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,ZEE BANGLA CINEMA
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8
@@ -124,9 +127,6 @@ https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:0,SONY TV
 http://103.141.66.36/bpk-tv/10401/default/index.m3u8
-
-#EXTINF:0,SONY TV HD
-http://tv.ebox.live:8080/live/sonyhd.m3u8
 
 #EXTINF:0,ARY ZINDAGI
 http://103.141.66.36/bpk-tv/10091/default/index.m3u8
@@ -170,6 +170,12 @@ https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0,&FLIX
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
 
+#EXTINF:0,STAR MOVIES
+http://175.41.46.16:8081/hls/2.m3u8
+
+#EXTINF:0, STAR MOVIES SELECT HD
+http://khulnalive.anytv.live:8080/starmov/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,&PICTURES
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
 
@@ -179,9 +185,6 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:0,STAR GOLD HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:0,STAR GOLD SELECT
-http://tv.ebox.live:8080/live/star-gold-select.m3u8
-
 #EXTINF:0,STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
@@ -189,10 +192,7 @@ https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 
 #EXTINF:0,SONY MAX HD
-http://tv.ebox.live:8080/live/sony-max.m3u8
-
-#EXTINF:0,SONY MAX 2
-http://tv.ebox.live:8080/live/sony-max-2.m3u8
+http://175.41.46.16:8081/hls/8.m3u8
 
 #EXTINF:0,VH1
 https://edge01.iptv.digijadoo.net/live/vh1/chunks.m3u8
@@ -209,9 +209,6 @@ https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:0,ZOOM
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
-#EXTINF:0,NICK
-http://tv.ebox.live:8080/live/nick.m3u8
-
 #EXTINF:0,NICK JR
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
@@ -227,17 +224,14 @@ http://103.141.66.36/bpk-tv/10229/default/index.m3u8
 #EXTINF:0,ZEE CAFE HD
 http://tvserver.roarzone.info:8082/76/index.m3u8
 
-#EXTINF:0,SONY PIX
-http://tv.ebox.live:8080/live/sony-pix.m3u8
-
 #EXTINF:0,HBO
-http://tv.ebox.live:8080/live/hbo.m3u8
+http://khulnalive.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,HBO HD
 http://103.58.73.26/streams/111/index.m3u8
 
-#EXTINF:0,COLOR INFINITY
-http://tv.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:0,MTV
+http://khulnalive.anytv.live:8080/mtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,FYI HD
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
@@ -293,80 +287,14 @@ https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:0,HUM MASALA
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 
-#EXTINF:0,DISCOVERY
-http://tv.ebox.live:8080/live/colors-bangla.m3u8
-
-#EXTINF:0,ANIMAL PLANET
-http://tv.ebox.live:8080/live/animale-planet.m3u8
-
-#EXTINF:0,NAT GEO
-http://tv.ebox.live:8080/live/natg.m3u8
-
-#EXTINF:0,SONY SIX
-http://tv.ebox.live:8080/live/sonysix.m3u8
-
-#EXTINF:0,SONY ESPN
-http://tv.ebox.live:8080/live/sonyespn.m3u8
-
 #EXTINF:0,SONY TEN 1
 http://103.58.73.26/streams/105/index.m3u8
-
-#EXTINF:0,SONY TEN 1 HD
-http://tv.ebox.live:8080/live/sonyten-1.m3u8
-
-#EXTINF:0,SONY TEN 2
-http://tv.ebox.live:8080/live/sonyten-2.m3u8
 
 #EXTINF:0,SONY TEN 2 HD
 http://103.58.73.26/streams/112/index.m3u8
 
-#EXTINF:0,SONY TEN 3
-http://tv.ebox.live:8080/live/sonyten-3.m3u8
-
-#EXTINF:0,TEN SPORTS
-http://tv.ebox.live:8080/live/ten-sports.m3u8
-
-#EXTINF:0,WILLOW CRICKET
-http://tv.ebox.live:8080/live/willow-cric.m3u8
-
-#EXTINF:0,PTV SPORTS
-http://tv.ebox.live:8080/live/ptvsports.m3u8
-
-#EXTINF:0,SKY CRICKET
-http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
-
-#EXTINF:0,SKY MIX
-http://tv.ebox.live:8080/live/Sky-Sports-Mix.m3u8
-
-#EXTINF:0,BEIN SPORTS 1
-http://tv.ebox.live:8080/live/bein-sports-1.m3u8
-
-#EXTINF:0,BEIN SPORTS 2
-http://tv.ebox.live:8080/live/bein-sports-2.m3u8
-
-#EXTINF:0,BEIN SPORTS11
-http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
-
-#EXTINF:0,BEIN SPORTS FRANCE 1
-http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
-
-#EXTINF:0,STAR SPORTS 1 HINDI
-http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
-
 #EXTINF:0,STAR SPORTS 2 HD
 http://103.58.73.26/streams/116/index.m3u8
-
-#EXTINF:0,STAR SPORTS 2 HD E
-http://tv.ebox.live:8080/live/starsportshd-2.m3u8
-
-#EXTINF:0,STAR SPORTS 3
-http://tv.ebox.live:8080/live/starsports-3.m3u8
-
-#EXTINF:0,STAR SPORTS SELECT 1
-http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
-
-#EXTINF:0,STAR SPORTS SELECT 2
-http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
 
 #EXTINF:0,STAR SPORTS SELECT 2 HD
 http://103.58.73.26/streams/114/index.m3u8
