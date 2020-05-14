@@ -1,18 +1,15 @@
 #EXTM3U
 #EXTINF:0,BTV 
-http://tvserver.roarzone.info:8082/104/index.m3u8
+http://103.141.66.36/bpk-tv/10330/default/index.m3u8
 
 #EXTINF:0,BTV WORLD
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://103.141.66.36/bpk-tv/10031/default/index.m3u8
 
-#EXTINF:0,CHANNEL S
-https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
-
-#EXTINF:0,IQRA BANGLA
-http://tvserver.roarzone.info:8082/109/index.m3u8
+#EXTINF:0,SHONGSHOD TV
+http://103.141.66.36/bpk-tv/10036/default/index.m3u8
 
 #EXTINF:0,ATN BANGLA
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://103.141.66.36/bpk-tv/10009/default/index.m3u8
 
 #EXTINF:0,ATN NEWS
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
@@ -30,7 +27,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
 #EXTINF:0,SOMOY TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+http://103.141.66.36/bpk-tv/10030/default/index.m3u8
 
 #EXTINF:0,BANGLAVISION
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
@@ -60,7 +57,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
 #EXTINF:0,INDEPENDENT TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10005/default/index.m3u8
 
 #EXTINF:0,DBC
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
