@@ -15,7 +15,7 @@ http://103.141.66.36/bpk-tv/10009/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
 #EXTINF:0,JAMUNA TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10037/default/index.m3u8
 
 #EXTINF:0,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
@@ -39,7 +39,7 @@ http://103.141.66.36/bpk-tv/10038/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 
 #EXTINF:0,CHANNEL I
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+http://103.141.66.36/bpk-tv/10026/default/index.m3u8
 
 #EXTINF:0,EKATTOR TV
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
@@ -51,7 +51,7 @@ http://103.141.66.36/bpk-tv/10080/default/index.m3u8
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
 #EXTINF:0,CHANNEL 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://103.141.66.36/bpk-tv/10008/default/index.m3u8
 
 #EXTINF:0,EKUSHEY TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
