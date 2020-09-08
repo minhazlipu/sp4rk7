@@ -54,7 +54,7 @@ http://103.141.66.36/bpk-tv/10016/default/index.m3u8
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
 
 #EXTINF:0,EKUSHEY TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10006/default/index.m3u8
 
 #EXTINF:0,INDEPENDENT TV
 http://103.141.66.36/bpk-tv/10005/default/index.m3u8
@@ -68,11 +68,6 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:0,DEEPTO TV
 http://103.141.66.36/bpk-tv/10455/default/index.m3u8
 
-#EXTINF:0,GAAN BANGLA
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-
-#EXTINF:0,ASIAN TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
 #EXTINF:0,NAGORIK TV
 http://103.141.66.36/bpk-tv/10451/default/index.m3u8
