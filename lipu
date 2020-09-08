@@ -12,7 +12,7 @@ http://103.141.66.36/bpk-tv/10036/default/index.m3u8
 http://103.141.66.36/bpk-tv/10009/default/index.m3u8
 
 #EXTINF:0,ATN NEWS
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://103.141.66.36/bpk-tv/10010/default/index.m3u8
 
 #EXTINF:0,JAMUNA TV
 http://103.141.66.36/bpk-tv/10037/default/index.m3u8
@@ -24,7 +24,7 @@ http://103.141.66.36/bpk-tv/10029/default/index.m3u8
 http://103.141.66.36/bpk-tv/10328/default/index.m3u8
 
 #EXTINF:-0,Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://103.141.66.36/bpk-tv/10154/default/index.m3u8
 
 #EXTINF:0,SOMOY TV
 http://103.141.66.36/bpk-tv/10030/default/index.m3u8
@@ -48,7 +48,7 @@ http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 http://103.141.66.36/bpk-tv/10080/default/index.m3u8
 
 #EXTINF:0,BOISHAKHI TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10016/default/index.m3u8
 
 #EXTINF:0,CHANNEL 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
@@ -60,13 +60,13 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10005/default/index.m3u8
 
 #EXTINF:0,DBC
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://103.141.66.36/bpk-tv/10256/default/index.m3u8
 
 #EXTINF:0,NEWS 24 HD
 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 
 #EXTINF:0,DEEPTO TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10455/default/index.m3u8
 
 #EXTINF:0,GAAN BANGLA
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
@@ -75,13 +75,10 @@ https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
 #EXTINF:0,NAGORIK TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-
-#EXTINF:0,PROBASHI BANGLA
-https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
+http://103.141.66.36/bpk-tv/10451/default/index.m3u8
 
 #EXTINF:0,RTV
-https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
+http://103.141.66.36/bpk-tv/10257/default/index.m3u8
 
 #EXTINF:0,MY TV
 http://103.141.66.36/bpk-tv/10333/default/index.m3u8
